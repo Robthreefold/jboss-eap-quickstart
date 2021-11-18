@@ -40,7 +40,7 @@
       <version.org.jboss.spec.jboss.javaee.6.0>3.0.0.Final</version.org.jboss.spec.jboss.javaee.6.0>
 
       <!-- Other dependency versions -->
-      <version.com.google.gwt>2.4.0</version.com.google.gwt>
+      <version.com.google.gwt>2.5.1</version.com.google.gwt>
 
       <!-- other plugin versions -->
       <version.compiler.plugin>2.3.1</version.compiler.plugin>
