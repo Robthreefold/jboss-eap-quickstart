@@ -44,7 +44,7 @@
         <version.org.jboss.bom>1.0.4.CR7</version.org.jboss.bom>
 
         <version.org.hibernate-jpamodelgen>1.1.1.Final</version.org.hibernate-jpamodelgen>
-        <version.org.hibernate.validator>4.2.0.Final</version.org.hibernate.validator>
+        <version.org.hibernate.validator>6.0.23.Final</version.org.hibernate.validator>
 
         <version.org.richfaces>4.2.0.Final</version.org.richfaces>
 
