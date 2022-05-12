@@ -43,7 +43,7 @@
         <version.org.jboss.arquillian>1.0.0.Final</version.org.jboss.arquillian>
 
         <version.org.hibernate-jpamodelgen>1.1.1.Final</version.org.hibernate-jpamodelgen>
-        <version.org.hibernate.validator>4.2.0.Final</version.org.hibernate.validator>
+        <version.org.hibernate.validator>6.0.23.Final</version.org.hibernate.validator>
 
         <!-- Other dependency versions -->
         <version.junit>4.10</version.junit>
@@ -309,7 +309,7 @@
                                                 </goals>
                                             </pluginExecutionFilter>
                                             <action>
-                                                <ignore></ignore>
+                                                <ignore/>
                                             </action>
                                         </pluginExecution>
                                     </pluginExecutions>
