@@ -44,7 +44,7 @@
         <version.org.jboss.weld>1.1.9.Final</version.org.jboss.weld>
 
         <!-- JBoss dependency versions -->
-        <version.org.jboss.as>7.1.1.Final</version.org.jboss.as>
+        <version.org.jboss.as>7.2.0.Final</version.org.jboss.as>
         <version.org.jboss.as.plugins.maven.plugin>7.3.Final</version.org.jboss.as.plugins.maven.plugin>
 
         <!-- other plugin versions -->
